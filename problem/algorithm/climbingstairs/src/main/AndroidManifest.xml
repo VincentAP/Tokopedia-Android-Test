@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tokopedia.climbingstairs">
+
+    <application>
+        <activity
+            android:name="com.tokopedia.climbingstairs.ClimbingStairsActivity"
+            android:label="@string/climbing_stairs" />
+    </application>
+
+</manifest>
+

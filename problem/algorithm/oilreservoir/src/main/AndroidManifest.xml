@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tokopedia.oilreservoir">
+
+    <application>
+        <activity
+            android:name="com.tokopedia.oilreservoir.OilReservoirActivity"
+            android:label="@string/oil_reservoir" />
+    </application>
+
+</manifest>
+

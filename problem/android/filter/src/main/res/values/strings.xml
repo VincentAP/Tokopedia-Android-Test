@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="filter">Filter</string>
+    <string name="discount_amount">%1$d%%</string>
+    <string name="location">Location</string>
+    <string name="price">Price</string>
+    <string name="apply">Apply</string>
+    <string name="min_price">Min Price: %1$s</string>
+    <string name="max_price">Max Price: %1$s</string>
+    <string name="no_data">No Data</string>
+    <string name="show_n_items">Show %1$d products</string>
+</resources>

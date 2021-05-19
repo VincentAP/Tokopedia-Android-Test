@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps">Maps</string>
+    <string name="nama_negara">Nama negara: %1$s</string>
+    <string name="ibukota">Ibukota: %1$s</string>
+    <string name="jumlah_penduduk">Jumlah penduduk: %1$s</string>
+    <string name="kode_telepon">Kode telepon: %1$s</string>
+    <string name="masukkan_nama_negara">Masukkan nama negara</string>
+    <string name="cari">Cari</string>
+</resources>
